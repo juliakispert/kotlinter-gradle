@@ -20,7 +20,7 @@ val githubUrl = "https://github.com/jeremymailen/kotlinter-gradle"
 val webUrl = "https://github.com/jeremymailen/kotlinter-gradle"
 val projectDescription = "Lint and formatting for Kotlin using ktlint with configuration-free setup on JVM and Android projects"
 
-version = "4.0.0"
+version = "4.0.500"
 group = "org.jmailen.gradle"
 description = projectDescription
 
